@@ -38,3 +38,37 @@ h2{
     top:50px;
     font-family:Segoe Script;
 }
+.static{
+    font-family:Segoe Script;
+    font-size:20px;
+    position:absolute;
+    bottom:50px;
+    left:500px;
+    color:red;
+}
+.option{
+    font-family:Segoe Script;
+    font-size:20px;
+    position:absolute;
+    bottom:50px;
+    left:100px;
+    color:red;
+}
+.add{
+    position:absolute;
+    bottom:50px;
+    right:100px;
+    width:40px;
+    height:40px;
+    background-image:url("circle.jpg");
+     background-size: cover;
+}
+.points{
+     font-family:Segoe Script;
+    font-size:20px;
+    position:absolute;
+    bottom:50px;
+    left:900px;
+    color:red;
+}
+
